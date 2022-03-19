@@ -15,4 +15,6 @@
   Every discord user should be able to use webhooks
   <li><a href="https://github.com/xellu/AutoZIP">AutoZIP</a></li>
   Advanced zipbomb tool written in python
+  <li><a href="https://github.com/xellu/PyFormatter">PyFormatter</a></li>
+  Easy text formatting
 </ul>
