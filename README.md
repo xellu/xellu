@@ -1,9 +1,9 @@
 <center>
   <h1>
-    <style img{width=5%;}>
+    
     <img src=""https://cdn.discordapp.com/avatars/772570226943459328/c2ca04ef1f009819dfd44e915e39956c.webp?size=1024>
     Xellu#6693
-    </style>
+   
   </h1>
 </center>
 
