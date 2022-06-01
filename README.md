@@ -1,20 +1,13 @@
-<center>Xellu#1337</center>
-<h2>Socials</h2>
-<ul>
-  <li><a href="https://xello.blue/discord/">Discord: Xellu#1337</a></li>
-  <li><a href="https://www.tiktok.com/@xellu1337">Tiktok: @xellu1337</a></li>
-  <li><a href="https://www.instagram.com/xellu1337/">Instagram: @xellu1337</a></li>
-  <li><a href="https://youtube.com/c/Xellu">Youtube: Xellu</a></li>
-</ul>
+<center>
+  <a href="https://github.com/xellu/xellu">
+    Xellu#1337
+  </a>
+</center>
 
-<h2>Projects</h2>
-<ul>
-  <li><a href="https://github.com/xellu/euphoria">Euphoria V</a></li>
-  Discord Selfbot - The better way to use discord
-  <li><a href="https://github.com/xellu/NoteRaw-2.0">NoteRaw 2.0</a></li>
-  Every discord user should be able to use webhooks
-  <li><a href="https://github.com/xellu/AutoZIP">AutoZIP</a></li>
-  Advanced zipbomb tool written in python
-  <li><a href="https://github.com/xellu/PyFormatter">PyFormatter</a></li>
-  Easy text formatting
-</ul>
+<h1><a href="https://github.com/xellu?tab=repositories&q=&type=&language=python&sort=">Python Projects</h1>
+  <li><a href="https://github.com/xellu/zynth">Zynth - Simple webhook tool for discord</li>
+  <li><a href="https://github.com/xellu/dishook">DisHook - Code your webhook messages</li>
+  <li><a href="https://github.com/xellu/imagebot">Image bot - Discord bot which sends random images</li>
+  <li><a href="https://github.com/xellu/euphoria">Euphoria - High quality selfbot for discord</li>
+  <li><a href="https://github.com/xellu/autozip">AutoZIP - Basic zipbomb tool</li>
+
