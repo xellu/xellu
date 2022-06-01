@@ -1,5 +1,5 @@
 <center>
-  <img src="https://cdn.discordapp.com/avatars/772570226943459328/c2ca04ef1f009819dfd44e915e39956c.webp?size=1024" style="width:5%; border-radius: 50%;">
+  <img src="https://cdn.discordapp.com/avatars/772570226943459328/c2ca04ef1f009819dfd44e915e39956c.webp?size=1024" style="width:5%; border-radius: 20px;">
   <h1>
     Xellu#6693 
   </h1>
