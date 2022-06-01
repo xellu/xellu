@@ -1,9 +1,7 @@
 <center>
+  [!image](https://cdn.discordapp.com/avatars/772570226943459328/c2ca04ef1f009819dfd44e915e39956c.webp?size=1024)
   <h1>
-    
-    [!image](https://cdn.discordapp.com/avatars/772570226943459328/c2ca04ef1f009819dfd44e915e39956c.webp?size=1024)
-    Xellu#6693
-   
+    Xellu#6693 
   </h1>
 </center>
 
