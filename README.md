@@ -1,5 +1,5 @@
 <html>
-    <img src="https://raw.githubusercontent.com/xellu/xellu/main/Xellu.png" style="width: 100vw" />
+    <img src="https://raw.githubusercontent.com/xellu/xellu/main/Xellu.svg" style="width: 100vw" />
 </html>
 
 <html>
