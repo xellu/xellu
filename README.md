@@ -1,1 +1,1 @@
-[banner](<https://raw.githubusercontent.com/xellu/xellu/main/Xellu.png>)
+[banner](https://raw.githubusercontent.com/xellu/xellu/main/Xellu.png)
