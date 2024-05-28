@@ -5,7 +5,7 @@ from world import entity
 
 me = entity(
   from = "🇨🇿" + "🇷🇺",
-  languages = ["Python", "JavaScript", "HTML", "CSS", "Java", "C"],
+  languages = ["Python", "JS", "Java", "C#"],
   featured_projects = [
     {
       "name": "Lime",
